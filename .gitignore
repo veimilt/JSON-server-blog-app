@@ -1,0 +1,36 @@
+# Node modules (if you're using npm or yarn)
+node_modules/
+
+# Dependency directories (if using a package manager like npm or yarn)
+npm-debug.log
+yarn-error.log
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files (macOS)
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*.swp
+*.swo
+
+# Build directories (if you are building your project for production)
+dist/
+build/
+
+# Sass/SCSS cache files (if using SASS)
+.sass-cache/
+
+# Coverage reports (if running tests)
+coverage/
+
+# Optional: If using .env files for environment variables
+.env
